@@ -106,7 +106,7 @@ With internal topics hidden (the Control Center default), the following four top
 - `docker-connect-offsets`
 - `docker-connect-status`
 
-The last three are used by Kafka Connect to store its connector configurations, offsets, and status. When the **Hide internal topics** toggle is off, there are 15 topics listed.
+When the **Hide internal topics** toggle is off, there are 15 topics listed.
 
 ### What is the name of the Connect cluster that is created?
 
